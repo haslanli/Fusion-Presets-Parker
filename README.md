@@ -97,7 +97,7 @@ This icon pack is a nice visual enhancement created by **https://github.com/itsr
 
 
 ```
-[https://imightbeparker.github.io/Fusion-Presets-Parker/presets/manifest.json](https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/json/icon-packs/icon-packs-yodaluca23.json)
+https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/json/icon-packs/icon-packs-yodaluca23.json
 ```
 Settings → Icon Packs → Add Icon Pack → Paste
 
