@@ -89,6 +89,16 @@ Download the AIOMetadata configuration file and import it into the AIOMetadata t
 
 ---
 
+## 🎨 Icon Packs (Recommended)
+
+This icon pack is a nice visual enhancement created by **https://github.com/itsrenoria** and is recommended for use.
+
+### How to use
+
+Settings → Icon Packs → Add Icon Pack → Paste
+
+---
+
 # ⚠️ Important Notes
 
 - These presets are **opinionated** and reflect personal preferences.
