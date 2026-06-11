@@ -38,6 +38,12 @@ These filters are intentionally curated and trimmed to remove noise. They focus 
 
 This is not a maximal tag list — it is a **refined, opinionated system** built around real-world playback results.
 
+If the first stream appears to be missing tags that lower-ranked streams have, note that those attributes are still accounted for in the AIO Streams configuration. However, some elements—such as file naming—are outside my control, and certain tags may not always display or behave consistently.
+
+I’m open to any suggestions or improvements, especially regarding the AIO Streams formatter. For example, it currently lacks proper black-and-white detection, such as for Spider-Noir. 
+
+Discussion: https://discord.com/channels/1314687977175253094/1514759584605274234
+
 ---
 
 # 🎬 AIOStreams Configuration
