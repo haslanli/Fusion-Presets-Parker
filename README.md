@@ -6,6 +6,7 @@ These presets prioritize **actual viewing experience over raw bitrate**, favorin
 
 The goal is simple: in tested usage, the first result should consistently provide the best overall viewing experience.
 
+⚠️ **Important:** This setup is **not anime-focused and not designed for anime use cases in any way.**
 ---
 
 # 📦 Fusion Presets (Filters)
