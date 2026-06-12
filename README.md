@@ -43,6 +43,7 @@ If the first stream appears to be missing tags that lower-ranked streams have, n
 I’m open to any suggestions or improvements, especially regarding the AIO Streams formatter. For example, it currently lacks proper black-and-white detection, such as for Spider-Noir. 
 
 Invite Link: https://discord.gg/KtEDvGSEC
+
 Discussion: Fusion → Configs → Fusion Presets by Parker
 
 ---
