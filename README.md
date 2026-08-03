@@ -17,7 +17,7 @@ The goal is simple: in tested usage, the first result should consistently provid
 Import the main filter preset directly into Fusion Media Center:
 
 ```
-https://imightbeparker.github.io/Fusion-Presets-Parker/presets/manifest.json
+https://haslanli.github.io/Fusion-Presets-Parker/presets/manifest.json
 ```
 
 Then paste it into:
